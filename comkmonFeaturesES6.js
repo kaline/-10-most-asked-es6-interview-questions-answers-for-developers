@@ -1,4 +1,4 @@
-*/
+/*
 1. What are the Common Features of ES6?
 Below are the common features of ES6…
 
