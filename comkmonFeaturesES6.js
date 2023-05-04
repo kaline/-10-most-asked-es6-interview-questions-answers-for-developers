@@ -14,4 +14,4 @@ Promises
 Classes
 Modules
 Support for Map/Set & WeakMap/WeakSet
-/*
+*/
